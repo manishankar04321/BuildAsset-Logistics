@@ -1,0 +1,5 @@
+package com.buildasset.gateway.filter;
+
+public class JwtAuthenticationFilter {
+
+}

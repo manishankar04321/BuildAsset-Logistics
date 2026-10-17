@@ -1,0 +1,5 @@
+package com.buildasset.gateway.service;
+
+public class JwtService {
+
+}

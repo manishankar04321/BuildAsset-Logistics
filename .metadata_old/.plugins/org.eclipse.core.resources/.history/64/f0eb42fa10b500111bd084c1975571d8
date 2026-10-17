@@ -1,0 +1,5 @@
+package com.buildasset.auth.dto;
+
+public class LoginRequest {
+
+}

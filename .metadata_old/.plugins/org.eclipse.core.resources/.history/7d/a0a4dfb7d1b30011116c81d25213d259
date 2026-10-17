@@ -1,0 +1,5 @@
+package com.buildasset.contractor.controller;
+
+public class ContractorController {
+
+}
